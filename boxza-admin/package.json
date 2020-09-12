@@ -1,0 +1,37 @@
+{
+  "name": "boxza-admin",
+  "version": "1.0.0",
+  "description": "My spectacular Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development node server/index.js --watch server",
+    "build": "nuxt build",
+    "start": "cross-env NODE_ENV=production node server/index.js",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.3",
+    "aws-sdk": "^2.742.0",
+    "axios": "^0.19.1",
+    "body-parser": "^1.19.0",
+    "cookieparser": "^0.1.0",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.4",
+    "formidable": "^1.2.2",
+    "js-cookie": "^2.2.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27",
+    "multer": "^1.4.2",
+    "nuxt": "^2.0.0",
+    "vee-validate": "^3.2.2",
+    "vue-easy-dnd": "^1.8.4",
+    "vue2-dropzone": "^3.6.0",
+    "vuedraggable": "^2.24.1",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}

@@ -1,0 +1,37 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "declaration": false,
+      "removeComments": true,
+      "noLib": false,
+      "allowSyntheticDefaultImports": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "allowJs": true,
+      "target": "es6",
+      "resolveJsonModule": true,
+      "sourceMap": true,
+      "outDir": "./dist",
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "baseUrl": "./",
+      "paths": {
+        "~/*": ["src/*"],
+        "@/*": ["src/*"],
+        "assets/*": ["src/assets/*"],
+        "static/*": ["src/static/*"],
+        "*": ["types/*"]
+      },
+      "types": [
+        "@types/node",
+        "@nuxt/vue-app"
+      ]
+    },
+    "include": [
+      "src/**/*"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  

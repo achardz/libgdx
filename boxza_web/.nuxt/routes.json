@@ -1,0 +1,58 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\boxza\\\\boxza_web\\\\src\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "props": false,
+    "_name": "_2c2db4a3"
+  },
+  {
+    "name": "dash-board",
+    "path": "/dash-board",
+    "component": "C:\\\\boxza\\\\boxza_web\\\\src\\\\pages\\\\dash-board\\\\index.vue",
+    "chunkName": "pages/dash-board/index",
+    "props": false,
+    "_name": "_5ab5b91d"
+  },
+  {
+    "name": "how-to-play",
+    "path": "/how-to-play",
+    "component": "C:\\\\boxza\\\\boxza_web\\\\src\\\\pages\\\\how-to-play.vue",
+    "chunkName": "pages/how-to-play",
+    "props": false,
+    "_name": "_3460f75f"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "C:\\\\boxza\\\\boxza_web\\\\src\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index",
+    "props": false,
+    "_name": "_a7c9e69c"
+  },
+  {
+    "name": "top-up",
+    "path": "/top-up",
+    "component": "C:\\\\boxza\\\\boxza_web\\\\src\\\\pages\\\\top-up.vue",
+    "chunkName": "pages/top-up",
+    "props": false,
+    "_name": "_e266c426"
+  },
+  {
+    "name": "dash-board-item-store-id",
+    "path": "/dash-board/item-store/:id",
+    "component": "C:\\\\boxza\\\\boxza_web\\\\src\\\\pages\\\\dash-board\\\\item-store\\\\_id.vue",
+    "chunkName": "pages/dash-board/item-store/_id",
+    "props": true,
+    "_name": "_7a64e604"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\boxza\\\\boxza_web\\\\src\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "props": false,
+    "_name": "_4be58f68"
+  }
+]

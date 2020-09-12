@@ -1,0 +1,176 @@
+/* font face start*/
+@font-face {
+    font-family: 'Sarabun-SemiBold';
+    src: url('../fonts/Sarabun-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+  font-family: 'Sarabun-Regular';
+  src: url('../fonts/Sarabun-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Sarabun-Medium';
+  src: url('../fonts/Sarabun-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-Black';
+    src: url('../fonts/Prompt-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-BlBlackItalicack';
+    src: url('../fonts/Prompt-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-Bold';
+    src: url('../fonts/Prompt-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-BoldItalic';
+    src: url('../fonts/Prompt-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-ExtraBold';
+    src: url('../fonts/Prompt-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-ExtraBoldItalic';
+    src: url('../fonts/Prompt-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-Light';
+    src: url('../fonts/Prompt-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-LightItalic';
+    src: url('../fonts/Prompt-LightItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-Italic';
+    src: url('../fonts/Prompt-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-Medium';
+    src: url('../fonts/Prompt-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-MediumItalic';
+    src: url('../fonts/Prompt-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-Regular';
+    src: url('../fonts/Prompt-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-SemiBold';
+    src: url('../fonts/Prompt-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-SemiBoldItalic';
+    src: url('../fonts/Prompt-SemiBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-Thin';
+    src: url('../fonts/Prompt-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Prompt-ThinItalic';
+    src: url('../fonts/Prompt-ThinItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'AngsanaNEW';
+    src: url('../fonts/AngsanaNEW.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url('../fonts/THSarabunNew.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'THSarabunNew-Bold';
+    src: url('../fonts/THSarabunNew-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'DB Helvethaica X Bd Cond';
+    src: url('../fonts/DB Helvethaica X Bd Cond.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'DB Helvethaica X Reg';
+    src: url('../fonts/DB Helvethaica X Reg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'THSarabunNew-Italic';
+    src: url('../fonts/THSarabunNew-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}

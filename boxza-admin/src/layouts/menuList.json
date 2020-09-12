@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "mdi-apps",
+    "title": "Welcome",
+    "to": "/welcome"
+  },
+  {
+    "icon": "mdi-format-list-bulleted-type",
+    "title": "สร้างประเภทกล่อง",
+    "to": "/create-box-type"
+  },
+  {
+    "icon": "mdi-format-list-bulleted-type",
+    "title": "สร้างและแก้ไขของรางวัล",
+    "to": "/create-item"
+  },
+  {
+    "icon": "mdi-toolbox-outline",
+    "title": "สร้างกล่องรางวัล",
+    "to": "/create-reward-box"
+  },
+  {
+    "icon": "mdi-wunderlist",
+    "title": "สร้างของรางวัล",
+    "to": "/create-reward"
+  },
+  {
+    "icon": "mdi-brightness-percent",
+    "title": "ตั้งค่าเปอร์เซ็นรางวัล",
+    "to": "/set-reward-percent"
+  },
+  {
+    "icon": "mdi-account-card-details-outline",
+    "title": "ดูข้อมูลผู้ใช้",
+    "to": "/user-detail"
+  },
+  {
+    "icon": "mdi-folder-alert-outline",
+    "title": "ของที่ค้างส่ง",
+    "to": "/status-item"
+  }
+]

@@ -1,0 +1,389 @@
+
+    <!-- 
+    <section class="bg-reward" id="tick-scoll">
+      <v-contrainer fluid class="main-reward">
+         <img class="bg-reward-st" src="~@/assets/images/bg-st.png" /> 
+         <img class="icon-reward-st" src="~@/assets/images/icon-r-st.png" /> 
+        <v-row justify="end" style="margin-bottom: -19px;">
+          <div
+            class="is-hidden-touch is-hidden-tablet-only is-hidden-desktop-only is-hidden-widescreen-only"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              width="456"
+              height="52"
+              style="position: absolute; left:0px;"
+            >
+              <path
+                d="M1079,1531h457l-24.39,52H1079v-52Z"
+                fill="#ff1170"
+                transform="translate(-1080 -1531)"
+              />
+              <image
+                id="Vector_Smart_Object_copy"
+                data-name="Vector Smart Object copy"
+                x="45"
+                y="8"
+                width="35"
+                height="35"
+                xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACH1BMVEUAAAD35Jb134L02m/y1Fbwz0Dwzjzy0k/z12Dz2Gbvyi745p3023Lwzj/wzDby1Vrx0Uz67bn13n3y1Vnvyi746KLy1Fbwz0Hy1FT45p3wzj/vyzPy1FX46KTy1FT57bbx0ETvyzTx0Ef++uzz12Hwz0Dvyi7345Dy01H89trxz0LvyjDwzDX24o7y01L////y1VjwzDbvyi767rzwz0H345Ly01P13Xnx0Unz2GTwzTry1Fbz2GX13Xnx0Ur35JTy1Fb677/x0Eb////y1Vn345Ly1Fb99+HwzTr35JXy1Ff+/PLz12Lxz0L678DwzDXy1Fb56q3z1l/46anz12L567Dy1Vjxz0Lz2GT89NX24ITz12Dy01P567L13Xnwz0DwzDfz12Hz2Wj89NX345D03HXy1Vnxz0Lwzj7y01Pz2Gf13Hby01DvyzHvyi7vyi/wzDjvyzDwzTnvyjD02mv56qv134H///7////345L788/++/DvyzTy1FX13nz89NPwzDXx0Eby1Vj02Wr+/fb13n7y1Vrx0Uv24o3+++/+/fXy1Fb03HT35pzwzTr9+en+/fjy01Px0Un8997z1l/y1FfwzTv78sv99+Hx0kzvyzL67rz89djwzj7456L78cn89NT+/ffwzDf//vzy1Vvz2Gb133/z2GT67bj46Kbxz0Lz2Gf9+OH02Wn56q335Zn24Yv567D02m3wz0AAAADGRQLuAAAAbXRSTlMABnTF7Pv768NxCivF/f3DKgy6tg5E9vVCZ/7+ZGdjP/79Ogv08g2yqyL+/iG7tAf7+whgV7iv5eD49/755uG8smVZCfzBuCkiuq8Q9vRJ/j9zanVsUPn3SRTFvxE20P7+zDIPgs7x/f3wy38Mdn3kSAAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfkCBwQBTAsNjdLAAABuUlEQVQ4y2NgQABGJmYW1ty8fDZ2Dk4uBmyAm4c3DwH4+AUwVAgKFeShgkJhEVQlomJ5mEBcAlmJpFQeNiAtg1AiW5SHHRTLwZTIK+ThAopKECXKKsiiJaVlyFxVNbAadRQl5RUVlcgCGiAlmlrIQlUVFRXVNUgC2jpANbrISmorQKAOWUiPgUHfAFmgFKymHlnI0IjBGM5paGxqbgGrqWhta0cEuwmDKZTV0VmBCrpKiyEyZgzmEEZ3BSZohUhZMFhCGD1Y1PRCpKwYrCGMvn4MJRMmQn3PAGXkTZqMpqRzCszRDFNhrGnTUZTMmAkPRQYbuB9nzUZSMmcuXNyKwRYRWvOQ1MxHCNsx2CM4C5DULMyFCzswOMLZixYju2cJXNyJwdkFxl6K4uYOpPhicIVxloHlqpavANMrYcJuwLThvgoWQguBgbIMyFi9pqKifC1UtNADlMg8YTqa1q2H+Lhmw8ZNMEEvcFr19snDDXwh6ZnBD3e+8A+AZZ5AnPkrCJEJgzdjVSIdgpyZQ8OwKAmPQC0UIqMwyo3oGIzSJTYuHklFQmIS1lIqOSU1LR1YjmVkZmXnIIkDADCIr8TJG+v5AAAAAElFTkSuQmCC"
+              />
+              <text
+                id="กล่องที่เปิดไปแล้ว"
+                y="8"
+                class="cls-1"
+                fill="white"
+                transform="translate(88.126 18.578) scale(2 2)"
+                font-family="DB Helvethaica X Bd Cond"
+              >
+                รางวัลที่เปิดได้ในขณะนี้
+              </text>
+            </svg>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              width="10.208in"
+              height="0.722in"
+              style="margin-right: -250px;"
+            >
+              <path
+                fill-rule="evenodd"
+                opacity="0.71"
+                fill="rgb(37, 29, 73)"
+                d="M0.0,0.000 L725.000,-0.000 L725.000,52.000 L15.000,52.000 L20.000,52.000 Z"
+              />
+              <image
+                x="25"
+                y="10"
+                max-width="100px"
+                :href="require('~/assets/images/boxcount-all.png')"
+                :lazy-href="require('~/assets/images/icon/logo.png')"
+              />
+              <image
+                x="270"
+                y="10"
+                max-width="100px"
+                :href="require('~/assets/images/usercount.png')"
+                :lazy-href="require('~/assets/images/icon/logo.png')"
+              />
+              <image
+                x="480"
+                y="10"
+                max-width="100px"
+                :href="require('~/assets/images/rewardcount.png')"
+                :lazy-href="require('~/assets/images/icon/logo.png')"
+              />
+              <text
+                x="10"
+                y="20"
+                fill="rgb(120, 104, 205)"
+                font-family="DB Helvethaica X Bd Cond"
+              >
+                <tspan
+                  x="65"
+                  y="35"
+                  font-size="24"
+                  fill="white"
+                  font-style="italic"
+                >
+                  {{ boxcount }} กล่องที่เปิดไปแล้ว
+                </tspan>
+                <tspan
+                  x="320"
+                  y="36"
+                  font-size="33"
+                  fill="white"
+                  font-style="italic"
+                >
+                  {{ usercount }}
+                </tspan>
+                <tspan x="400" y="35" font-size="22" font-style="italic">
+                  ผู้เปิดกล่อง
+                </tspan>
+                <tspan
+                  x="530"
+                  y="35"
+                  font-size="33"
+                  fill="white"
+                  font-style="italic"
+                >
+                  {{ total }}
+                </tspan>
+                <tspan x="630" y="35" font-size="22" font-style="italic">
+                  เงินรางวัล
+                </tspan>
+              </text>
+            </svg>
+          </div>
+          <div
+            class="is-hidden-fullhd"
+            style="margin-top: -162px;
+              position: absolute;
+              right: -42px;"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              width="1.75in"
+              height="1.903in"
+            >
+              <path
+                fill-rule="evenodd"
+                opacity="0.71"
+                fill="rgb(29, 27, 71)"
+                d="M-0.000,17.461 C-0.000,54.380 -0.000,137.000 -0.000,137.000 L126.000,137.000 L126.000,0.000 C126.000,0.000 53.154,0.000 19.220,0.000 "
+              />
+              <image
+                x="15"
+                y="15"
+                width="20px"
+                height="19px"
+                :href="require('~/assets/images/boxcount-all.png')"
+                :lazy-href="require('~/assets/images/icon/logo.png')"
+              />
+              <image
+                x="15"
+                y="55"
+                width="20px"
+                height="19px"
+                max-width="100px"
+                :href="require('~/assets/images/usercount.png')"
+                :lazy-href="require('~/assets/images/icon/logo.png')"
+              />
+              <image
+                x="15"
+                y="95"
+                width="20px"
+                height="19px"
+                max-width="100px"
+                :href="require('~/assets/images/rewardcount.png')"
+                :lazy-href="require('~/assets/images/icon/logo.png')"
+              />
+              <text
+                x="10"
+                y="20"
+                fill="rgb(120, 104, 205)"
+                font-family="DB Helvethaica X Bd Cond"
+              >
+                <tspan
+                  x="45"
+                  y="25"
+                  font-size="20"
+                  fill="white"
+                  font-style="italic"
+                >
+                  {{ boxcount }}
+                </tspan>
+                <tspan x="45" y="37" font-size="14" font-style="italic">
+                  กล่องที่เปิดไปแล้ว
+                </tspan>
+                <tspan
+                  x="45"
+                  y="65"
+                  font-size="20"
+                  fill="white"
+                  font-style="italic"
+                >
+                  {{ usercount }}
+                </tspan>
+                <tspan x="45" y="77" font-size="14" font-style="italic">
+                  ผู้เปิดกล่อง
+                </tspan>
+                <tspan
+                  x="45"
+                  y="105"
+                  font-size="20"
+                  fill="white"
+                  font-style="italic"
+                >
+                  {{ total }}
+                </tspan>
+                <tspan x="45" y="117" font-size="14" font-style="italic">
+                  รางวัล
+                </tspan>
+              </text>
+              <path
+                fill-rule="evenodd"
+                fill="rgb(255, 17, 112)"
+                d="M196.000,-0.000 L0.000,-0.000 L10.460,27.000 L196.000,27.000 L196.000,-0.000 Z"
+                transform="translate(-20,135)"
+              />
+              <text
+                id="กล่องที่เปิดไปแล้ว"
+                x="-110"
+                y="260"
+                fill="white"
+                class="cls-1"
+                transform="translate(88.126 18.578) scale(0.5 0.5)"
+              >
+                รางวัลที่เปิดได้ในขณะนี้
+              </text>
+              <image
+                id="Vsdfsdf_copy"
+                data-name="sdfsdf copy"
+                x="10"
+                y="138"
+                width="15"
+                height="15"
+                xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACH1BMVEUAAAD35Jb134L02m/y1Fbwz0Dwzjzy0k/z12Dz2Gbvyi745p3023Lwzj/wzDby1Vrx0Uz67bn13n3y1Vnvyi746KLy1Fbwz0Hy1FT45p3wzj/vyzPy1FX46KTy1FT57bbx0ETvyzTx0Ef++uzz12Hwz0Dvyi7345Dy01H89trxz0LvyjDwzDX24o7y01L////y1VjwzDbvyi767rzwz0H345Ly01P13Xnx0Unz2GTwzTry1Fbz2GX13Xnx0Ur35JTy1Fb677/x0Eb////y1Vn345Ly1Fb99+HwzTr35JXy1Ff+/PLz12Lxz0L678DwzDXy1Fb56q3z1l/46anz12L567Dy1Vjxz0Lz2GT89NX24ITz12Dy01P567L13Xnwz0DwzDfz12Hz2Wj89NX345D03HXy1Vnxz0Lwzj7y01Pz2Gf13Hby01DvyzHvyi7vyi/wzDjvyzDwzTnvyjD02mv56qv134H///7////345L788/++/DvyzTy1FX13nz89NPwzDXx0Eby1Vj02Wr+/fb13n7y1Vrx0Uv24o3+++/+/fXy1Fb03HT35pzwzTr9+en+/fjy01Px0Un8997z1l/y1FfwzTv78sv99+Hx0kzvyzL67rz89djwzj7456L78cn89NT+/ffwzDf//vzy1Vvz2Gb133/z2GT67bj46Kbxz0Lz2Gf9+OH02Wn56q335Zn24Yv567D02m3wz0AAAADGRQLuAAAAbXRSTlMABnTF7Pv768NxCivF/f3DKgy6tg5E9vVCZ/7+ZGdjP/79Ogv08g2yqyL+/iG7tAf7+whgV7iv5eD49/755uG8smVZCfzBuCkiuq8Q9vRJ/j9zanVsUPn3SRTFvxE20P7+zDIPgs7x/f3wy38Mdn3kSAAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfkCBwQBTAsNjdLAAABuUlEQVQ4y2NgQABGJmYW1ty8fDZ2Dk4uBmyAm4c3DwH4+AUwVAgKFeShgkJhEVQlomJ5mEBcAlmJpFQeNiAtg1AiW5SHHRTLwZTIK+ThAopKECXKKsiiJaVlyFxVNbAadRQl5RUVlcgCGiAlmlrIQlUVFRXVNUgC2jpANbrISmorQKAOWUiPgUHfAFmgFKymHlnI0IjBGM5paGxqbgGrqWhta0cEuwmDKZTV0VmBCrpKiyEyZgzmEEZ3BSZohUhZMFhCGD1Y1PRCpKwYrCGMvn4MJRMmQn3PAGXkTZqMpqRzCszRDFNhrGnTUZTMmAkPRQYbuB9nzUZSMmcuXNyKwRYRWvOQ1MxHCNsx2CM4C5DULMyFCzswOMLZixYju2cJXNyJwdkFxl6K4uYOpPhicIVxloHlqpavANMrYcJuwLThvgoWQguBgbIMyFi9pqKifC1UtNADlMg8YTqa1q2H+Lhmw8ZNMEEvcFr19snDDXwh6ZnBD3e+8A+AZZ5AnPkrCJEJgzdjVSIdgpyZQ8OwKAmPQC0UIqMwyo3oGIzSJTYuHklFQmIS1lIqOSU1LR1YjmVkZmXnIIkDADCIr8TJG+v5AAAAAElFTkSuQmCC"
+              />
+            </svg>
+          </div>
+        </v-row>
+        <v-row id="reward">
+          <!-- <v-col
+            cols="2"
+            md="3"
+            sm="6"
+            class="is-hidden-touch is-hidden-tablet-only is-hidden-desktop-only is-hidden-widescreen-only"
+            v-if="rewardList"
+          >
+            <template
+              v-for="(item, index) in rewardList"
+              v-bind:item="item"
+              v-bind:index="index"
+            >
+              <div class="main-box" v-if="index < 1">
+                <div id="item-st" class="main-box">
+                  <img
+                    class="icon-reward"
+                    src="~@/assets/images/icon_reward.png"
+                  />
+                  <img
+                    class="reward-bg"
+                    src="~@/assets/images/boxza_reward1.png"
+                  />
+                  <img id="item-pic" class="icon-item" :src="item.item_pic" />
+                  <img id="box-pic" class="icon-item" :src="item.box_pic" />
+                  <img class="icon-avatar" :src="item.user_pic" />
+                  <p class="Price">$ {{ item.item_price }}</p>
+                </div>
+              </div>
+            </template>
+          </v-col> 
+          <v-col
+            cols="12"
+            class="is-hidden-touch is-hidden-tablet-only is-hidden-desktop-only is-hidden-widescreen-only"
+            v-if="rewardList"
+            style="margin-top: -20px;"
+          >
+            <v-slide-group multiple show-arrows dark>
+              <v-slide-item
+                v-for="(item, index) in rewardList"
+                :key="item.id + 10"
+              >
+                <div class="main-box" v-if="index">
+                  <div id="item-sd" class="overlay">
+                    <img
+                      id="item-sd"
+                      class="icon-reward"
+                      src="~@/assets/images/icon_reward.png"
+                    />
+                    <img
+                      v-if="item.rate_id == 1"
+                      id="item-sd"
+                      class="reward-bg"
+                      src="~@/assets/images/reward/common_bg.png"
+                    />
+                    <img
+                      v-if="item.rate_id == 2"
+                      id="item-sd"
+                      class="reward-bg"
+                      src="~@/assets/images/reward/rare_bg.png"
+                    />
+                    <img
+                      v-if="item.rate_id == 3"
+                      id="item-sd"
+                      class="reward-bg"
+                      src="~@/assets/images/reward/epic_bg.png"
+                    />
+                    <img
+                      v-if="item.rate_id == 4"
+                      id="item-sd"
+                      class="reward-bg"
+                      src="~@/assets/images/reward/legend_bg.png"
+                    />
+
+                    <img id="item-pic" class="icon-item" :src="item.item_pic" />
+                    <img id="box-pic" class="icon-item" :src="item.box_pic" />
+                    <img class="icon-avatar" :src="item.user_pic" />
+                    <p class="Price">$ {{ item.item_price }}</p>
+                  </div>
+                </div>
+              </v-slide-item>
+            </v-slide-group>
+          </v-col>
+          <v-col cols="12" class="is-hidden-fullhd" v-if="rewardList">
+            <v-slide-group multiple show-arrows dark>
+              <v-slide-item
+                v-for="(item, index) in rewardList"
+                :key="item.id + 20"
+              >
+                <div class="main-box" v-if="index >= 0">
+                  <div id="item-sd" class="overlay">
+                    <img
+                      id="item-sd"
+                      class="icon-reward"
+                      src="~@/assets/images/icon_reward.png"
+                    />
+                    <img
+                      v-if="item.rate_id == 1"
+                      id="item-sd"
+                      class="reward-bg"
+                      src="~@/assets/images/reward/common_bg.png"
+                    />
+                    <img
+                      v-if="item.rate_id == 2"
+                      id="item-sd"
+                      class="reward-bg"
+                      src="~@/assets/images/reward/rare_bg.png"
+                    />
+                    <img
+                      v-if="item.rate_id == 3"
+                      id="item-sd"
+                      class="reward-bg"
+                      src="~@/assets/images/reward/epic_bg.png"
+                    />
+                    <img
+                      v-if="item.rate_id == 4"
+                      id="item-sd"
+                      class="reward-bg"
+                      src="~@/assets/images/reward/legend_bg.png"
+                    />
+                    <img id="item-pic" class="icon-item" :src="item.item_pic" />
+                    <img id="box-pic" class="icon-item" :src="item.box_pic" />
+                    <img class="icon-avatar" :src="item.user_pic" />
+                    <p class="Price">$ {{ item.item_price }}</p>
+                  </div>
+                </div>
+              </v-slide-item>
+            </v-slide-group>
+          </v-col>
+           <v-col cols="sm" col="1">
+          </v-col>
+          <v-col>
+            <template v-for="(item, index) in rewardList">
+              <div class="main-box" v-if="index > 0">
+                <div id="item-sd" class="overlay">
+                  <img
+                    id="item-sd"
+                    class="icon-reward"
+                    src="~@/assets/images/icon_reward.png"
+                  />
+                  <img
+                    id="item-sd"
+                    class="reward-bg"
+                    src="~@/assets/images/boxza_reward1.png"
+                  />
+                  <img id="item-pic" class="icon-item" :src="item.item_pic" />
+                  <img id="box-pic" class="icon-item" :src="item.box_pic" />
+                  <img class="icon-avatar" :src="item.user_pic" />
+                  <p class="Price">$ {{ item.item_price }}</p>
+                </div>
+              </div>
+            </template>
+          </v-col> 
+        </v-row>
+      </v-contrainer>
+    </section> -->
